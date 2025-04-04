@@ -17,3 +17,4 @@ public String toString() {
 return titol + " de " + autor + (prestat ? " (En préstec)" : " (Disponible)");
 }
 }
+canviProva
